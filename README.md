@@ -1,1 +1,1 @@
-My hand-rolled nvim configuration. Simple, just with LSP and typst support and Oil
+My hand-rolled nvim configuration. extremely simple with only LSP and Oil I don't want to spend 638 hours on plugins
